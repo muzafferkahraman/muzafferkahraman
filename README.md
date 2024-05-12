@@ -12,7 +12,7 @@
 ![alt text](pics/kubernetes.png)
 ![alt text](pics/helm.png)
 ![alt text](pics/git.jpg)
-![alt text](pics/linux.png)
+![alt text](pics/linux.webp)
 ![alt text](pics/mysql.png)
 
 
