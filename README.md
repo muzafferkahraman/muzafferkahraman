@@ -1,1 +1,1 @@
-### Hi there  ![alt text](wave.gif)
+### Hi there  ![alt text](pics/wave.gif)
