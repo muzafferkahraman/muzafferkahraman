@@ -5,7 +5,12 @@
 <h3>I code with</h3>
 
 ![alt text](pics/python.png)
-![alt text](pics/ansible.gif)
+![alt text](pics/ansible.png)
+![alt text](pics/js.png)
+![alt text](pics/terra.png)
+![alt text](pics/docker.png)
+![alt text](pics/kubernetes.png)
+![alt text](pics/helm.png)
 
 
 
