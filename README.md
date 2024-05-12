@@ -4,8 +4,8 @@
 
 <h3>I code with</h3>
 <p>
-<img alt="Python" src="https://simpleicons.org/icons/python.svg" />
-<img alt="js" src="https://simpleicons.org/icons/ansible.svg" />
+![alt text](pics/python.png)
+![alt text](pics/ansible.gif)
 </p>
 
 
