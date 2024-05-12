@@ -11,6 +11,9 @@
 ![alt text](pics/docker.png)
 ![alt text](pics/kubernetes.png)
 ![alt text](pics/helm.png)
+![alt text](pics/git.jpg)
+![alt text](pics/linux.png)
+![alt text](pics/mysql.png)
 
 
 
