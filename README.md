@@ -1,0 +1,2 @@
+# muzo
+My personal repository
