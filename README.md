@@ -14,6 +14,7 @@ My technical stack is centered around Network Automation technologies, with Pyth
 ![alt text](pics/terra.png)
 ![alt text](pics/docker.png)
 ![alt text](pics/kubernetes.png)
+![alt text](pics/openstack.png)
 ![alt text](pics/helm.png)
 ![alt text](pics/git.jpg)
 ![alt text](pics/linux.webp)
