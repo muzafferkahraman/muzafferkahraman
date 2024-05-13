@@ -7,11 +7,7 @@
 My technical stack is centered around Network Automation technologies, with Python serving as the primary skill to drive automation tasks. Below, I provide a short overview of the diverse set of languages, tools, frameworks, and libraries that I have incorporated into my projects
 
 
-
-
-
-
-
+                                                         
 ![alt text](pics/python.png)
 ![alt text](pics/ansible.png)
 ![alt text](pics/js.png)
