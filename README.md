@@ -9,21 +9,22 @@ My technical stack is centered around Network Automation technologies, with Pyth
 
                                                          
 [![Proficient in python](https://badgen.net/badge/Proficient%20in/Python?color=blue&labelColor=yellow&style=plastic)](https://badgen.net/)
-
-
+[![Proficient in bash](https://badgen.net/badge/Proficient%20in/Bash?color=blue&style=plastic)](https://badgen.net/)
 [![Proficient in ansible](https://badgen.net/badge/Proficient%20in/Ansible?color=blue&style=plastic)](https://badgen.net/)
 [![Proficient in terraform](https://badgen.net/badge/Proficient%20in/Terraform?color=blue&style=plastic)](https://badgen.net/)
+
 [![Proficient in docker](https://badgen.net/badge/Proficient%20in/Docker?color=blue&style=plastic)](https://badgen.net/)
 [![Proficient in kubernetes](https://badgen.net/badge/Proficient%20in/Kubernetes?color=blue&style=plastic)](https://badgen.net/)
 [![Proficient in kvm](https://badgen.net/badge/Proficient%20in/KVM?color=blue&style=plastic)](https://badgen.net/)
 [![Proficient in Openstack](https://badgen.net/badge/Proficient%20in/Openstack?color=blue&style=plastic)](https://badgen.net/)
+
 [![Proficient in RestAPI](https://badgen.net/badge/Proficient%20in/RestAPI?color=blue&style=plastic)](https://badgen.net/)
 [![Proficient in gNMI](https://badgen.net/badge/Proficient%20in/gNMI?color=blue&style=plastic)](https://badgen.net/)
 [![Proficient in SRLinux](https://badgen.net/badge/Proficient%20in/SRLinux?color=blue&style=plastic)](https://badgen.net/)
 [![Proficient in SDWAN](https://badgen.net/badge/Proficient%20in/SD-WAN?color=blue&style=plastic)](https://badgen.net/)
 [![Proficient in SDN](https://badgen.net/badge/Proficient%20in/SDN?color=blue&style=plastic)](https://badgen.net/)
 [![Proficient in BGP-EVPN](https://badgen.net/badge/Proficient%20in/Bgp-Evpn?color=blue&style=plastic)](https://badgen.net/)
-[![Proficient in bash](https://badgen.net/badge/Proficient%20in/Bash?color=blue&style=plastic)](https://badgen.net/)
+
 [![Proficient in jenkins](https://badgen.net/badge/Proficient%20in/Jenkins?color=blue&style=plastic)](https://badgen.net/)
 [![Proficient in grafana](https://badgen.net/badge/Proficient%20in/Grafana?color=blue&style=plastic)](https://badgen.net/)
 [![Proficient in prometheus](https://badgen.net/badge/Proficient%20in/Prometheus?color=blue&style=plastic)](https://badgen.net/)
