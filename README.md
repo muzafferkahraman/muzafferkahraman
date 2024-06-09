@@ -14,14 +14,18 @@ My technical stack is centered around Network Automation technologies, with Pyth
 [![Proficient in docker](https://badgen.net/badge/Proficient%20in/Docker?color=blue&style=plastic)](https://badgen.net/)
 [![Proficient in kubernetes](https://badgen.net/badge/Proficient%20in/Kubernetes?color=blue&style=plastic)](https://badgen.net/)
 [![Proficient in kvm](https://badgen.net/badge/Proficient%20in/KVM?color=blue&style=plastic)](https://badgen.net/)
+[![Proficient in Openstack] (https://badgen.net/badge/Proficient%20in/Openstack?color=blue&style=plastic)](https://badgen.net/)
 [![Proficient in RestAPI](https://badgen.net/badge/Proficient%20in/RestAPI?color=blue&style=plastic)](https://badgen.net/)
 [![Proficient in gNMI](https://badgen.net/badge/Proficient%20in/gNMI?color=blue&style=plastic)](https://badgen.net/)
+[![Proficient in SRLinux](https://badgen.net/badge/Proficient%20in/SRLinux?color=blue&style=plastic)](https://badgen.net/)
 [![Proficient in BGP-EVPN](https://badgen.net/badge/Proficient%20in/Bgp-Evpn?color=blue&style=plastic)](https://badgen.net/)
 [![Proficient in bash](https://badgen.net/badge/Proficient%20in/Bash?color=blue&style=plastic)](https://badgen.net/)
 [![Proficient in jenkins](https://badgen.net/badge/Proficient%20in/Jenkins?color=blue&style=plastic)](https://badgen.net/)
 [![Proficient in grafana](https://badgen.net/badge/Proficient%20in/Grafana?color=blue&style=plastic)](https://badgen.net/)
-[![Proficient in prometheus](https://badgen.net/badge/Proficient%20in/Prometheu?color=blue&style=plastic)](https://badgen.net/)
-[![Proficient in bash](https://badgen.net/badge/Proficient%20in/Bash?color=blue&style=plastic)](https://badgen.net/)
+[![Proficient in prometheus](https://badgen.net/badge/Proficient%20in/Prometheus?color=blue&style=plastic)](https://badgen.net/)
+[![Proficient in opentelemetry](https://badgen.net/badge/Proficient%20in/OpenTelemetry?color=blue&style=plastic)](https://badgen.net/)
+
+
 
 
 
