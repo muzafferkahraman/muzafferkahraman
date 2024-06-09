@@ -8,33 +8,19 @@ My technical stack is centered around Network Automation technologies, with Pyth
 
 
                                                          
-[![Proficient in python](https://badgen.net/badge/Proficient%20in/python?color=blue&style=plastic)](https://badgen.net/)
-[![Proficient in ansible](https://badgen.net/badge/Proficient%20in/ansible?color=blue&style=plastic)](https://badgen.net/)
-[![Proficient in terraform](https://badgen.net/badge/Proficient%20interraform?color=blue&style=plastic)](https://badgen.net/)
-[![Proficient in docker](https://badgen.net/badge/Proficient%20in/docker?color=blue&style=plastic)](https://badgen.net/)
-[![Proficient in kubernetes](https://badgen.net/badge/Proficient%20in/kubernetes?color=blue&style=plastic)](https://badgen.net/)
-[![Proficient in python](https://badgen.net/badge/Proficient%20in/python?color=blue&style=plastic)](https://badgen.net/)
-[![Proficient in python](https://badgen.net/badge/Proficient%20in/python?color=blue&style=plastic)](https://badgen.net/)
-[![Proficient in python](https://badgen.net/badge/Proficient%20in/python?color=blue&style=plastic)](https://badgen.net/)
-[![Proficient in python](https://badgen.net/badge/Proficient%20in/python?color=blue&style=plastic)](https://badgen.net/)
-[![Proficient in python](https://badgen.net/badge/Proficient%20in/python?color=blue&style=plastic)](https://badgen.net/)
+[![Proficient in python](https://badgen.net/badge/Proficient%20in/Python?color=blue&style=plastic)](https://badgen.net/)
+[![Proficient in ansible](https://badgen.net/badge/Proficient%20in/Ansible?color=blue&style=plastic)](https://badgen.net/)
+[![Proficient in terraform](https://badgen.net/badge/Proficient%20in/Terraform?color=blue&style=plastic)](https://badgen.net/)
+[![Proficient in docker](https://badgen.net/badge/Proficient%20in/Docker?color=blue&style=plastic)](https://badgen.net/)
+[![Proficient in kubernetes](https://badgen.net/badge/Proficient%20in/Kubernetes?color=blue&style=plastic)](https://badgen.net/)
+[![Proficient in kvm](https://badgen.net/badge/Proficient%20in/kvm?color=blue&style=plastic)](https://badgen.net/)
+[![Proficient in RestAPI](https://badgen.net/badge/Proficient%20in/RestAPI?color=blue&style=plastic)](https://badgen.net/)
+[![Proficient in gNMI](https://badgen.net/badge/Proficient%20in/gNMI?color=blue&style=plastic)](https://badgen.net/)
+[![Proficient in BGP-EVPN](https://badgen.net/badge/Proficient%20in/BGP-EVPN?color=blue&style=plastic)](https://badgen.net/)
+[![Proficient in bash](https://badgen.net/badge/Proficient%20in/Bash?color=blue&style=plastic)](https://badgen.net/)
 
 
-![alt text](pics/python.png)
-![alt text](pics/ansible.png)
-![alt text](pics/js.png)
-![alt text](pics/terra.png)
-![alt text](pics/docker.png)
-![alt text](pics/kubernetes.png)
-![alt text](pics/openstack.png)
-![alt text](pics/kvm.png)
-![alt text](pics/helm.png)
-![alt text](pics/git.jpg)
-![alt text](pics/linux.webp)
-![alt text](pics/mysql.png)
-![alt text](pics/postman.png)
-![alt text](pics/srlinux.png)
-![alt text](pics/evpn.jpg)
+
 
 
 
