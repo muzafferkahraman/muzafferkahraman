@@ -8,6 +8,7 @@ My technical stack is centered around Network Automation technologies, with Pyth
 
 
                                                          
+[![Proficient in python](https://badgen.net/badge/Proficient%20in/python?color=blue&style=plastic)](https://badgen.net/)
 ![alt text](pics/python.png)
 ![alt text](pics/ansible.png)
 ![alt text](pics/js.png)
