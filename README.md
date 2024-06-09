@@ -9,6 +9,17 @@ My technical stack is centered around Network Automation technologies, with Pyth
 
                                                          
 [![Proficient in python](https://badgen.net/badge/Proficient%20in/python?color=blue&style=plastic)](https://badgen.net/)
+[![Proficient in ansible](https://badgen.net/badge/Proficient%20in/ansible?color=blue&style=plastic)](https://badgen.net/)
+[![Proficient in terraform](https://badgen.net/badge/Proficient%20interraform?color=blue&style=plastic)](https://badgen.net/)
+[![Proficient in docker](https://badgen.net/badge/Proficient%20in/docker?color=blue&style=plastic)](https://badgen.net/)
+[![Proficient in kubernetes](https://badgen.net/badge/Proficient%20in/kubernetes?color=blue&style=plastic)](https://badgen.net/)
+[![Proficient in python](https://badgen.net/badge/Proficient%20in/python?color=blue&style=plastic)](https://badgen.net/)
+[![Proficient in python](https://badgen.net/badge/Proficient%20in/python?color=blue&style=plastic)](https://badgen.net/)
+[![Proficient in python](https://badgen.net/badge/Proficient%20in/python?color=blue&style=plastic)](https://badgen.net/)
+[![Proficient in python](https://badgen.net/badge/Proficient%20in/python?color=blue&style=plastic)](https://badgen.net/)
+[![Proficient in python](https://badgen.net/badge/Proficient%20in/python?color=blue&style=plastic)](https://badgen.net/)
+
+
 ![alt text](pics/python.png)
 ![alt text](pics/ansible.png)
 ![alt text](pics/js.png)
