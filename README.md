@@ -8,7 +8,9 @@ My technical stack is centered around Network Automation technologies, with Pyth
 
 
                                                          
-[![Proficient in python](https://badgen.net/badge/Proficient%20in/Python?color=blue&style=plastic)](https://badgen.net/)
+[![Proficient in python](https://badgen.net/badge/Proficient%20in/Python?color=blue&labelColor=yellow&style=plastic)](https://badgen.net/)
+
+
 [![Proficient in ansible](https://badgen.net/badge/Proficient%20in/Ansible?color=blue&style=plastic)](https://badgen.net/)
 [![Proficient in terraform](https://badgen.net/badge/Proficient%20in/Terraform?color=blue&style=plastic)](https://badgen.net/)
 [![Proficient in docker](https://badgen.net/badge/Proficient%20in/Docker?color=blue&style=plastic)](https://badgen.net/)
